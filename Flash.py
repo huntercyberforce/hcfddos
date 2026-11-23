@@ -1,3 +1,7 @@
+""" Copyright (c) 2024-2025 Flash Forhad (huntercyberforce.official@gmail.com)
+ 
+Distributed under the MIT License (MIT) (See accompanying file LICENSE.txt or copy at [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)) """
+
 # Import necessary modules
 from platform import system
 from tqdm.auto import tqdm
@@ -43,12 +47,12 @@ bytes_data = random._urandom(1490)
 
 # Main menu
 while True:
-    print("\n\033[92mThis toolkit is created by FLASH FORHAD.\033[0m")
-    print("\033[92mYou can connect with me on my Telegram ID: \033[96m@Gajarbotol_jr\033[0m")
-    print("\033[92mMy Facebook ID: \033[96mFlash Forhad\033[0m")
-    input("\nPress Enter to continue...")
-    os.system(cmd_clear)
-
+    print("\n\033[92;1m")
+    print("                        Author: Flash Forhad")
+    print('TEAM HCF bears no responsibility for any unlawful actions performed using this tool.')
+    print('Users are solely accountable for their activities.')
+    print("\n1. Website Domain\n2. IP Address\n3. About\n4. Exit")
+    print('\033[0m')
 
     # User input
     opt = input("\n> ")
@@ -61,10 +65,9 @@ while True:
         ip = input("IP Address: ")
         break
     elif opt == '3':
-        print("\n\033[92mThis toolkit is created by Black Herryblackherry_csb.\033[0m")
-        print("\033[92mYou can connect with me on my Telegram ID: \033[96mblackherry_csb\033[0m")
-        print("\033[92mMy Facebook ID: \033[96mBijoy\033[0m")
-        print("\033[92mOr join our public group: \033[96mCSB Community\033[0m")
+        print("\n\033[92mThis toolkit is created by Flash Forhad_hcf.\033[0m")
+        print("\033[92mMy Facebook ID: \033[96mFlash Forhad\033[0m")
+        print("\033[92mOr join our public group: \033[96mHcf Community\033[0m")
         input("\nPress Enter to continue...")
         os.system(cmd_clear)
     elif opt == '4':
