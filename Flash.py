@@ -1,5 +1,3 @@
-
-
 # Import necessary modules
 from platform import system
 from tqdm.auto import tqdm
