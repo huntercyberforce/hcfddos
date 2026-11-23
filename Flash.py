@@ -43,11 +43,11 @@ bytes_data = random._urandom(1490)
 
 # Main menu
 while True:
-            print("\n\033[92mThis toolkit is created by FLASH FORHAD.\033[0m")
-            print("\033[92mYou can connect with me on my Telegram ID: \033[96m@Gajarbotol_jr\033[0m")
-            print("\033[92mMy Facebook ID: \033[96mFlash Forhad\033[0m")
-            input("\nPress Enter to continue...")
-            os.system(cmd_clear)
+    print("\n\033[92mThis toolkit is created by FLASH FORHAD.\033[0m")
+    print("\033[92mYou can connect with me on my Telegram ID: \033[96m@Gajarbotol_jr\033[0m")
+    print("\033[92mMy Facebook ID: \033[96mFlash Forhad\033[0m")
+    input("\nPress Enter to continue...")
+    os.system(cmd_clear)
 
 
     # User input
