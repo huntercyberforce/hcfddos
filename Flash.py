@@ -1,4 +1,4 @@
-""" Copyright (c) 2024-2025 Flash Forhad (huntercyberforce.official@gmail.com)
+""" Copyright (c) 2025-2026 Flash Forhad (huntercyberforce.official@gmail.com)
  
 Distributed under the MIT License (MIT) (See accompanying file LICENSE.txt or copy at [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)) """
 
